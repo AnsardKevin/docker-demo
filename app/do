@@ -1,0 +1,2 @@
+docker tag docker-demo_app:latest test2:latest
+docker push test2:latest
